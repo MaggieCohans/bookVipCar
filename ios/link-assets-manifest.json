@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Calibri Bold Italic.ttf",
+      "sha1": "0b78e4e7c728a3889c7abc3ef415c0540a9f1455"
+    },
+    {
+      "path": "src/assets/fonts/Calibri Bold.TTF",
+      "sha1": "b26d429f381b89eb4c0fe68907a5722abd58cca2"
+    },
+    {
+      "path": "src/assets/fonts/Calibri Italic.ttf",
+      "sha1": "2b11eedbf902c9e3cdcc91d801268d264b546f0f"
+    },
+    {
+      "path": "src/assets/fonts/Calibri Light Italic.ttf",
+      "sha1": "8117959c7d7253fd1f17c92be2abd69db1a6306b"
+    },
+    {
+      "path": "src/assets/fonts/Calibri Light.ttf",
+      "sha1": "5ca2339e93d4527eebf01ae70204b4123ee267d3"
+    },
+    {
+      "path": "src/assets/fonts/Calibri Regular.ttf",
+      "sha1": "18bdacade53d1ca0d7f57e4e4be5c965709fc9b0"
+    },
+    {
+      "path": "src/assets/fonts/index.ts",
+      "sha1": "89f9cee6258524e63a0b98e6223729b515d687d6"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353291429209",
+    "project_id": "bookvipcarr",
+    "storage_bucket": "bookvipcarr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353291429209:android:cad1ffb77f96921b1c1848",
+        "android_client_info": {
+          "package_name": "com.bookvipcarapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmi71uEsFoqguAy0PEq4-GCI3k080Gr7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
